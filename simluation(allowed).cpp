@@ -3,8 +3,14 @@
 //  3061 final project
 //
 //  Created by Alvin Lei on 16/4/2021.
-//
-
+//   viewed by Michael Van
+/*
+Warning
+    Since the project dont allow data structure and algothn 
+    it has a very poor performances 
+     so the parameter is not situable for too large
+     it will casue slow running time
+*/
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
