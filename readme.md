@@ -12,6 +12,8 @@ only "array and for" for creating the tasks
 ----test.py 
 for creating gif to visualising the data ,parsing the xyzAn files
 ---xyz file 
+#project difficult 
+since the project is not elasticity enough for us to use any data structure and algothrm,somehow its makes our task more complicated
 # performance problem
 > since that we dont allowed to use any data structure and algothrm , and the searching is linear , so that when the n size is large(number of cars ) it encouter slow performance
 originally is used in VMD , but since the gui and the result is poor  so , we make a file "xyzAn" for the test.py to visualising the data 
