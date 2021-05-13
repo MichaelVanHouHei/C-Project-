@@ -9,11 +9,11 @@ only "array and for" for creating the tasks
 - no data structure is allowed ( so no class and struct)
 - no lib such as algothrm or self-writed algothrm is allowed
 # files
-##simulation.cpp(allowed)
+- simulation.cpp(allowed)
 the C++ simulation code which dont have any data structure and algothrm
-##test.py
+- test.py
 for creating gif to visualising the data ,parsing the xyzAn files
-##xyz file (output of C++ program)
+- xyz file (output of C++ program)
 the xyz file originally is used for VMD , but since the gui is so suck , we use test.py for data visualizision
 #project difficult 
 since the project is not elasticity enough for us to use any data structure and algothrm,somehow its makes our task more complicated
