@@ -14,5 +14,5 @@ for creating gif to visualising the data
 originally is used in VMD , but since the gui and the result is poor  so , we make a file "xyzAn" for the test.py to visualising the data 
 # result 
 this is the first 100 secords (frames) of data 
-![alt text]https://github.com/MichaelVanHouHei/C-Project-/blob/main/roll.gif
+![alt text](https://github.com/MichaelVanHouHei/C-Project-/blob/main/roll.gif)
 this is the first 1000 secrods (frames) of data
