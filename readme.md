@@ -1,4 +1,4 @@
-# C++ basic road simluation
+# C++ basic road simluation (python for data visiualizion)
 ## for traffric congestion
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 This is a project based on CUHK physics major 
